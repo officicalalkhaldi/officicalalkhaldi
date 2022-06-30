@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @officicalalkhaldi
+- 👋 Hi, I’m Bad Bunny
 - 👀 I’m interested in Tech & Programing
 - 🌱 I’m currently learning Android with Kotlin
 - 💞️ I’m looking to collaborate on projects
